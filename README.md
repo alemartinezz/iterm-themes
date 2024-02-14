@@ -1,5 +1,7 @@
 # 💻 Terminal
 
+![image](https://github.com/alemartinezz/iterm-themes/assets/119695580/3691329c-a51e-4d98-9b9c-8596ef664c8e)
+
 ### Homebrew
 
 ```jsx
