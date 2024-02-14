@@ -1,6 +1,6 @@
 # 💻 Terminal Setup
 
-![image](https://github.com/alemartinezz/iterm-themes/assets/119695580/3691329c-a51e-4d98-9b9c-8596ef664c8e)
+<img width="831" alt="Screenshot 2024-02-14 at 11 42 31" src="https://github.com/alemartinezz/iterm-themes/assets/119695580/30d25acf-ac22-45b1-9ab6-259d12e4acfe">
 
 ### Homebrew
 
