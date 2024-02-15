@@ -66,7 +66,7 @@ p10k configure
 2. Go to Profiles > Text
 3. Increase font size as needed
 
-### Change iTerm2 Colors to My Custom Theme
+### Change iTerm2 Colors to Custom Theme
 
 1. Open iTerm2
 2. Download themes
